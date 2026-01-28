@@ -1,0 +1,3 @@
+I am a developer experienced in HTML, CSS, JavaScript, and React.
+I have built multiple projects using Node.js and Express.
+Familiar with MongoDB and REST APIs.

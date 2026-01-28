@@ -1,0 +1,36 @@
+Name: Riya Choudhary
+Email: riya.choudhary@example.com
+
+Phone: +91 9876543210
+
+Professional Summary:
+Frontend Developer with 1 year of experience in building dynamic and responsive web applications. Skilled in HTML, CSS, and basic JavaScript, with some exposure to React.js. Eager to learn and adapt to modern web development frameworks.
+
+Education:
+B.Tech in Computer Science – XYZ University, 2023
+
+
+Skills:
+
+HTML, CSS
+
+Basic JavaScript
+
+Git (version control)
+
+No experience with React.js, API integration, or advanced JS frameworks
+
+Experience:
+Frontend Developer Intern – ABC Solutions (Jan 2023 – Dec 2023)
+
+Developed responsive static web pages using HTML and CSS.
+
+Assisted the backend team in minor testing tasks.
+
+Gained basic exposure to JavaScript for interactivity
+
+Certifications:
+
+Web Development Basics – Coursera
+
+Git & GitHub Fundamentals – Udemy

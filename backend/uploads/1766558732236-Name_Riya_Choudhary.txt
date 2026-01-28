@@ -1,0 +1,13 @@
+Name: Riya Choudhary
+Email: riya.choudhary@example.com
+
+Phone: +91 9876543210
+
+Professional Summary:
+ knodledge of ml and git ,github
+Education:
+B.Tech in Computer Science – XYZ University, 2023
+
+
+Skills:
+ml, nlp ,ux
